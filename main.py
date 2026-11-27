@@ -23,7 +23,7 @@ PROXY_LIST = {
 }
 
 TARGET_DOMAIN = "tooliyapooliya.blogspot.com"
-MAX_SLOTS = 5
+MAX_SLOTS = 3
 
 GEO_DATA = {
     "us": {
